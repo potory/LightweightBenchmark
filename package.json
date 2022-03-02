@@ -1,0 +1,16 @@
+{
+  "name" : "com.arxbound.benchmark",
+  "version": "0.1.0",
+  "displayName": "Lightweight Benchmark",
+  "description": "Unity code benchmark",
+  "unity": "2018.4",
+  "dependencies": {
+
+  },
+  "keywords": ["tools", "perfomance", "testing"],
+  "author": {
+    "name": "Alexey Potory",
+    "email": "",
+    "url": "https://github.com/potory/"
+  }
+}
